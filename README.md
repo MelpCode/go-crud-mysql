@@ -2,7 +2,7 @@
 
 ## Packages
 
-Before to install the packages, we have to write the next command `go mod init {name}`
+Before to install the packages, we have to write the next command `go mod init [eg. go-crud-mysql]`
 
 github.com/go-sql-driver/mysql `go get github.com/go-sql-driver/mysql`
 
